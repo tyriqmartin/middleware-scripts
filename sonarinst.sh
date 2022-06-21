@@ -96,3 +96,4 @@ then
 echo "failed to start sonar"
 exit 1
 fi
+
